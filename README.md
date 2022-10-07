@@ -1,2 +1,2 @@
-# Competition
+# FPGA Innovation Design Competition
  

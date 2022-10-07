@@ -1,0 +1,9 @@
+module single_for
+(
+	input		wire		[0:0]		sys_clk	,
+	input		wire		[0:0]		sys_rst	,
+	
+	input		wire		[0:0]		for_en	,
+	input		wire		[3:0]		num		,
+	input		wire		[7:0]		
+);

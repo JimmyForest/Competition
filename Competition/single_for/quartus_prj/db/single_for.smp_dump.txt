@@ -1,0 +1,5 @@
+
+State Machine - |single_for|add_flag
+Name add_flag.1 
+add_flag.0 0 
+add_flag.1 1 

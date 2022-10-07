@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim
+T_opt
+Z1 !s110 1664988587
+VJaV]9gG358OZoA>S[SkGC3
+04 8 4 work fix_mult fast 0
+=1-9cfce89ee5f3-633db5ab-300-4250
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+Z2 OL;O;10.4;61
+R0
+T_opt1
+!s110 1664988732
+VVJ7HD4La0[CUNVWj=4U812
+04 11 4 work fix_mult_tb fast 0
+=1-9cfce89ee5f3-633db63c-6-3db8
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+vfix_mult
+!s110 1664988720
+!i10b 1
+!s100 RGk=c9ZVU4XTEmMj2X4Z30
+ITE<4RLP5nN7Q2OgoARSFk1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1664988560
+8C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/fix_mult.v
+FC:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/fix_mult.v
+Z4 L0 21
+Z5 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1664988719.990000
+!s107 C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/fix_mult.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/fix_mult.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfix_mult_tb
+!s110 1664988718
+!i10b 1
+!s100 9Mz2k>P1Q9nBefWQEflbh1
+Ik_ChSRJn8QX=3TgBWJn@o0
+R3
+R0
+w1664988457
+8C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim/fix_mult_tb.v
+FC:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim/fix_mult_tb.v
+L0 29
+R5
+r1
+!s85 0
+31
+!s108 1664988718.185000
+!s107 C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim/fix_mult_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim/fix_mult_tb.v|
+!i113 0
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/quartus_prj/simulation/modelsim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vqtwosComp
+R1
+!i10b 1
+!s100 OZ5B1gC@A>za]`j:^ciFl2
+IQl_a^[eBHW`cUJh99;IbC0
+R3
+R0
+w1664987666
+8C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/qtwosComp.v
+FC:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/qtwosComp.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1664988587.049000
+!s107 C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/qtwosComp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl|C:/Users/forest/Desktop/Quartus_prj/Competition/fix_mult/rtl/qtwosComp.v|
+!i113 0
+R6
+R7
+nqtwos@comp

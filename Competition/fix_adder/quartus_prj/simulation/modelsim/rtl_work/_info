@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim
+T_opt
+!s110 1664986878
+VZzdDoa<SMnPgMJmbYcdC]0
+04 12 4 work fix_adder_tb fast 0
+=1-9cfce89ee5f3-633daefd-24a-35ec
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vfix_adder
+Z1 !s110 1664986876
+!i10b 1
+!s100 N_hTXoR7<S7lE<`a5T15H0
+IPXoT7iMGA?^nWf][F`<932
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1664975896
+8C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/rtl/fix_adder.v
+FC:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/rtl/fix_adder.v
+L0 21
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1664986876.508000
+!s107 C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/rtl/fix_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/rtl|C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/rtl/fix_adder.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfix_adder_tb
+R1
+!i10b 1
+!s100 KJLF8IzCRaW_gBCeY<i]N0
+IkXj0JQZTb5kGUOHUTncjQ3
+R2
+R0
+w1664975806
+8C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim/fix_adder_tb.v
+FC:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim/fix_adder_tb.v
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1664986876.594000
+!s107 C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim/fix_adder_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim|C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim/fix_adder_tb.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/forest/Desktop/Quartus_prj/Competition/fix_adder/quartus_prj/simulation/modelsim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
