@@ -1,4 +1,4 @@
-# 软核
+# DSP and Mathematics
 ## 一、CORDIC
 主要特征：  
 - 可实现sin/cos、arctan、坐标旋转、极坐标与直角坐标转换功能；  
@@ -75,3 +75,4 @@ FFT IP支持两种尾数处理方法，一种是截断法，另一种是取整�
 ### 信号时序
 ![](./picture2/p8.png)
 在start和complete信号同为高电平时，输入dividend（被除数）和divisor（除数）并开始运行。
+## 
