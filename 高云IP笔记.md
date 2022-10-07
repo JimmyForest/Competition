@@ -64,3 +64,14 @@ FFT IP支持两种尾数处理方法，一种是截断法，另一种是取整�
 ### 接口时序
 ![](./picture2/p6.png)
 ![](./picture2/p7.png)（第二个我没看懂）
+## Fixed Point Divider
+主要特征：
+- 可实现定点有符号小数的除法运算；
+- 可配置数据位宽（input data width）；
+- 可配置小数位精度（decimal precision）；
+- 输出延迟周期与参数的配置有关（数据位宽和小数位精度）。
+### 数据的解读
+输入与输出数据（被除数、除数、商）使用定点原码进行计算，负数也采用原码计算。output data width为输出数据位宽，大小与input data width**相同**且随之变化。decimal precision为小数位精度，范围是1到input data width-2。
+### 信号时序
+![](./picture2/p8.png)
+在start和complete信号同为高电平时，输入dividend（被除数）和divisor（除数）并开始运行。
