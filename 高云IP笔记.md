@@ -75,4 +75,15 @@ FFT IP支持两种尾数处理方法，一种是截断法，另一种是取整�
 ### 信号时序
 ![](./picture2/p8.png)
 在start和complete信号同为高电平时，输入dividend（被除数）和divisor（除数）并开始运行。
-## 
+# Memory
+## BSRAM & SSRAM
+### BSRAM
+#### 配置模式：
+![](./picture2/p9.png)
+![](./picture2/p10.png)
+双端口和伪双端口模式写时钟和读时钟独立，支持读/写操作数据位宽独立。
+![](./picture2/p11.png)
+### 一、伪双端口模式
+端口A进行写操作，端口B进行读操作，可支持2种读模式（bypass模式和pipeline模式）和1种写模式（normal 模式）。  
+通过参数READ_MODE来启用或禁用输出pipeline寄存器，使用输出pipeline寄存器时，**读**操作需要额外的延迟周期。
+![](./picture2/p12.png)
